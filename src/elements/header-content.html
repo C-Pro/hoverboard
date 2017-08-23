@@ -129,7 +129,7 @@
           <div class="container" center-justified>
             <div class="home-wrapper">
               <iron-image class="logo" src="/images/logo-light.svg" sizing="contain"
-                          alt="GDG DevFest Ukraine 2016"></iron-image>
+                          alt="GDG DevFest Vladivostok 2017"></iron-image>
               <h3 class="dates">{$ dates $}</h3>
               <h2 class="motto">{$ motto $}</h2>
               {% if pages.home.headerSettings.video %}
@@ -139,7 +139,9 @@
                 </div>
               {% endif %}
               <div class="action-buttons">
-                <paper-button class="primary" on-tap="_scrollToTickets" raised>{$ buyTicket $}</paper-button>
+                <a href="https://www.meetup.com/GDG-Vladivostok/events/241903547/">
+                <paper-button class="primary" raised>{$ buyTicket $}</paper-button>
+                </a>
               </div>
             </div>
           </div>
