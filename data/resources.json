@@ -68,33 +68,13 @@
           "newTab": false
         },
         {
-          "text": "Правила поведения",
-          "url": "/cod/",
-          "newTab": false
-        },
-        {
           "text": "Google Developers",
           "url": "https://developers.google.com/",
           "newTab": true
         },
         {
           "text": "GDG DevFest Vladivostok 2016",
-          "url": "http://gdgvl.ru/devfest/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "Для партнёров",
-      "links": [
-        {
-          "text": "Предложение для спонсоров",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "http://gdgvl.ru/devfest16/",
           "newTab": true
         }
       ]
@@ -108,8 +88,8 @@
       }
     ]
   },
-  "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "teamPageTitle": "Команда",
+  "teamPageText": "DevFest проводится совместно сообществами GDG Владиовсток и VLDC. GDG (Google Developers Group) - группа для разработчиков, администраторов, дизайнеров и других людей, связанных с IT, обменивающихся информацией, знаниями и опытом в использовании технологий Google, таких как Android, Chrome, Angular, TensorFlow, Google APIs, Cloud Platform и т.п. VLDC (VLadivostok developers Conference) - неумолкающая IT тусовка Владивостока и Приморского края, без определённой направленности и тематки - за мир во всём мире. Вместе мы проводим порядка 10 мероприятий в год и постепенно увеличиваем их количество и качество.",
   "statistics": [
     {
       "counter": 200,

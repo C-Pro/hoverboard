@@ -3,7 +3,7 @@
   "startDate": "2017-10-07T12:00:00+10:00",
   "endDate": "2017-10-07T19:00:00+10:00",
   "analytics": {
-    "prod": "UA-43643469-8",
+    "prod": "UA-43847636-2",
     "dev": "UA-43643469-9"
   },
   "organizer": {
@@ -35,7 +35,7 @@
   "hashtag": "gdgvl",
   "disqusShortName": "",
   "tweetsSource": "",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "partnershipProposition": "",
   "videosSessionsUrl": null,
   "enableSessionsRating": false,
   "navigation": [
@@ -73,7 +73,7 @@
     }
   ],
   "location": {
-    "apiKey": "",
+    "apiKey": "AIzaSyAHhBrj-TvCddFfu9Q3UqKJGzDRbFsXV4o",
     "name": "TBD",
     "address": "ул. НЕИЗВЕСТНАЯ",
     "link": "http://domvl.ru",
@@ -104,7 +104,7 @@
   },
   "pages": {
     "home": {
-      "title": "Home",
+      "title": "Главная",
       "headerSettings": {
         "backgroundColor": "#FF9800",
         "backgroundImage": "/images/backgrounds/home.png",
@@ -116,7 +116,7 @@
       }
     },
     "blog": {
-      "title": "Blog",
+      "title": "Новости",
       "headerSettings": {
         "backgroundColor": "#03a9f4",
         "fontColor": "#fff",
@@ -124,7 +124,7 @@
       }
     },
     "speakers": {
-      "title": "Speakers",
+      "title": "Докладчики",
       "headerSettings": {
         "backgroundColor": "#3f51b5",
         "fontColor": "#fff",
@@ -132,7 +132,7 @@
       }
     },
     "schedule": {
-      "title": "Schedule",
+      "title": "Расписание",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
@@ -140,7 +140,7 @@
       }
     },
     "team": {
-      "title": "Team",
+      "title": "Команда",
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",
@@ -148,7 +148,7 @@
       }
     },
     "cod": {
-      "title": "Cod of Conduct",
+      "title": "Правила",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
