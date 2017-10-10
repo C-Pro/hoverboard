@@ -541,7 +541,7 @@
       "title" : "Интерфейсы на минималках: как сделать быстро и приемлемо"
     },
     "143" : {
-      "complexity" : "advanced",
+      "complexity" : "Basic",
       "description" : "Почему Вам стоит попробовать Kotlin - Эдуард Ковнацкий, Android Developer, RedDot, Благовещенск",
       "language" : "Russian",
       "speakers" : [ 7 ],
@@ -558,27 +558,74 @@
     },
     "145" : {
       "complexity" : "Intermediate",
-      "description" : "Интерфейсы на минималках: как сделать быстро и приемлемо",
+      "description" : "Augmented Reality by examples - Алексей Коровянский, Google Developer Expert, Омск",
       "language" : "Russian",
       "speakers" : [ 10 ],
-      "tags" : [ "Frontend" ],
-      "title" : "Интерфейсы на минималках: как сделать быстро и приемлемо"
+      "tags" : [ "AR" ],
+      "title" : "Augmented Reality by examples"
     },
     "146" : {
-      "complexity" : "Intermediate",
-      "description" : "Интерфейсы на минималках: как сделать быстро и приемлемо",
-      "language" : "Russian",
-      "speakers" : [ 4 ],
-      "tags" : [ "Frontend" ],
-      "title" : "Интерфейсы на минималках: как сделать быстро и приемлемо"
+      "description" : "Пицца",
+      "language" : "Human",
+      "speakers" : [ 5 ],
+      "tags" : [ "Еда","Угошение","Нямса"],
+      "title" : "Пицца"
     },
     "147" : {
       "complexity" : "Intermediate",
-      "description" : "Интерфейсы на минималках: как сделать быстро и приемлемо",
+      "description" : "Использование и диагностика PostgreSQL с точки зрения системного администратора",
       "language" : "Russian",
-      "speakers" : [ 4 ],
+      "speakers" : [ 6 ],
+      "tags" : [ "Backend","PostgreSQL" ],
+      "title" : "Использование и диагностика PostgreSQL с точки зрения системного администратора - Сергиенко Артем, ДНС, системный администратор"
+    },
+    "148" : {
+      "complexity" : "Intermediate",
+      "description" : "High performance servers without the event loop",
+      "language" : "English",
+      "speakers" : [ 12 ],
+      "tags" : [ "Heptio" ],
+      "title" : "High performance servers without the event loop - Dave Cheney, Heptio, Сидней"
+    },
+    "149" : {
+      "complexity" : "Intermediate",
+      "description" : "Внедрение практик CI/CD в процесс разработки",
+      "language" : "Russian",
+      "speakers" : [ 3 ],
+      "tags" : [ "Software Development","Разработка ПО" ],
+      "title" : "Внедрение практик CI/CD в процесс разработки - Антон Дзодзиков, CardPay, full stack разработчик"
+    },
+    "150" : {
+      "complexity" : "Intermediate",
+      "description" : "Нативный код в Вебе",
+      "language" : "Russian",
+      "speakers" : [ 8 ],
       "tags" : [ "Frontend" ],
-      "title" : "Интерфейсы на минималках: как сделать быстро и приемлемо"
+      "title" : "Нативный код в Вебе - Даниил Оношко, Senior Developer, LeadCooker Inc., Новосибирск"
+    },
+    "151" : {
+      "complexity" : "Intermediate",
+      "description" : "To be or not to be? Для чего нам понадобился свой пул соединений",
+      "language" : "Russian",
+      "speakers" : [ 1 ],
+      "tags" : [ "Backend","Oracle","Connection pool" ],
+      "title" : "To be or not to be? Для чего нам понадобился свой пул соединений - Коблов Денис, CardPay, разработчико"
+    },
+    "152" : {
+      "complexity" : "Intermediate",
+      "description" : "Microservices in production with Go and Kubernetes - Елена Граховац, Senior Go Developer, DCMN, Берлин",
+      "language" : "Russian",
+      "speakers" : [ 9 ],
+      "tags" : [ "Go" ,"Kubernetes"],
+      "title" : "Microservices in production with Go and Kubernetes - Елена Граховац, Senior Go Developer, DCMN, Берлин"
+    },
+    "153" : {
+      "complexity" : "Intermediate",
+      "description" : "Лайфхак: как \"продать\" себя компании",
+      "language" : "Russian",
+      "speakers" : [ 11],
+      "tags" : [ "HR" ,"Лайфхак"],
+      "title" : "Лайфхак: как \"продать\" себя компании - Евгения Старостина, Human Resource Manager, CardPay"
     },
   },
   "speakers" : [ null, {
