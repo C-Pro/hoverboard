@@ -123,35 +123,35 @@
     "dateReadable" : "October 7",
     "timeslots" : [ {
       "endTime" : "13:00",
-      "sessions" : [ [ 137 ] ],
+      "sessions" : [ [ 141 ] ],
       "startTime" : "12:30"
     }, {
       "endTime" : "14:00",
-      "sessions" : [ [ 138 ], [ 139 ] ],
+      "sessions" : [ [ 142 ], [ 143 ] ],
       "startTime" : "13:00"
     }, {
       "endTime" : "15:00",
-      "sessions" : [ [ 140 ], [141 ] ],
+      "sessions" : [ [ 144 ], [145 ] ],
       "startTime" : "14:00"
     }, {
       "endTime" : "16:00",
-      "sessions" : [ [ 142 ]],
+      "sessions" : [ [ 146 ]],
       "startTime" : "15:00"
     }, {
       "endTime" : "17:00",
-      "sessions" : [ [ 143 ], [ 144 ] ],
+      "sessions" : [ [ 147 ], [ 148 ] ],
       "startTime" : "16:00"
     }, {
       "endTime" : "18:00",
-      "sessions" : [ [ 145 ], [ 146 ] ],
+      "sessions" : [ [ 149 ], [ 150 ] ],
       "startTime" : "17:00"
     }, {
       "endTime" : "19:00",
-      "sessions" : [ [ 147 ], [ 148 ] ],
+      "sessions" : [ [ 151 ], [ 152 ] ],
       "startTime" : "18:00"
     }, {
       "endTime" : "20:30",
-      "sessions" : [ [ 149 ], [ 148 ] ],
+      "sessions" : [ [ 153 ], [ 152 ] ],
       "startTime" : "19:00"
     }
      ],
